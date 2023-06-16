@@ -1,1 +1,2 @@
 # odin-recipes
+In this project we'll build a wedpage for recipies. The first stage will be the foundation (html) and later stage we'll focus on CSS and make the page look good. This project will teach me HTML and CSS and using GitHub while working on a project.
